@@ -1,0 +1,46 @@
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+
+venv/
+.env/
+env/
+ENV/
+
+# Environment variables (CRITICAL)
+
+.env
+
+# Logs
+
+*.log
+logs/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
+.idea/
+
+# Build / dist
+
+build/
+dist/
+*.egg-info/
+
+# Jupyter (if any)
+
+.ipynb_checkpoints/
+
+# Misc
+
+*.sqlite3
